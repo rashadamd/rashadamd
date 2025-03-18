@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-Hi, I'm **Rashad Amd**, a passionate **Software Developer**, **Tech Enthusiast**, and **UI/UX Designer** with a keen interest in **Web Development, Mobile App Development, IoT, and Cybersecurity**. I am currently pursuing a **Bachelor's in ICT**, specializing in **Software Technologies**. I thrive on solving complex problems and continuously learning new technologies.
+Hi, I'm **Rashad Ahamed**, a passionate **Software Developer**, **Tech Enthusiast**, and **UI/UX Designer** with a keen interest in **Web Development, Mobile App Development, IoT, and Cybersecurity**. I am currently pursuing a **Bachelor's in ICT**, specializing in **Software Technologies**. I thrive on solving complex problems and continuously learning new technologies.
 
 - 🎓 **Undergraduate in ICT (Software Technologies)**
 - 💡 **Passionate about Software Development, UI/UX, AI/ML, IoT, and Cybersecurity**
